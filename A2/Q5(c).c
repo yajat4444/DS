@@ -44,7 +44,7 @@ int main() {
         printf("\n");
     }
 
-    printf("\nLower Triangular Storage:\n");
+    printf("\nLower Triangular n");
     for(int i=0;i<n*(n+1)/2;i++) printf("%d ",lower[i]);
 
     return 0;
