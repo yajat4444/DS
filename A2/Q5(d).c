@@ -36,7 +36,7 @@ int main() {
         printf("\n");
     }
 
-    printf("\nUpper Triangular Storage:\n");
+    printf("\nUpper Triangular\n");
     for(int i=0;i<n*(n+1)/2;i++) printf("%d ",upper[i]);
 
     return 0;
